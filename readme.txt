@@ -1,82 +1,154 @@
-=== Illdy ===
+==================================================================================================
 
-Contributors: Colorlib
-Tags: blog, e-commerce, education, entertainment, news, food-and-drink, holiday, photography, portfolio
+DESCRIPTION:
 
-Requires at least: 4.0
-Tested up to: 4.7.2
-Stable tag: 2.0.1
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+INFINITY is a clean, modern and well crafted responsive template designed for creatives and agencies. 
+The template suits the needs of creative agencies, freelancers, and even small business websites.
+In addition to Infinity's great-looking design, it also comes with the following features: a 
+fullscreen hero banner with subtle text animations; a MailChimp signup form; a details and portfolio 
+section where you can tell more about your services and latest projects; social links, and contact 
+information. Also, the code behind infinity is clean and well organized which makes the template very 
+easy to customize.
 
-== Description ==
-
-Illdy is a free premium one page WordPress theme.
-
-== Installation ==
-	
-1. In your admin panel, go to Appearance > Themes and click the Add New button.
-2. Click Upload and Choose File, then select the theme's .zip file. Click Install Now.
-3. Click Activate to use your new theme right away.
-
-= License =
-Illdy WordPress theme, Copyright (C) 2015 Colorlib.com
-Illdy WordPress theme is licensed under the GPL3.
-
-Unless otherwise specified, all the theme files, scripts and images are licensed under GNU General Public License.
-The exceptions to this license are as follows:
-
-* Bootstrap v3.3.6 (http://getbootstrap.com):
-    Copyright 2011-2014 Twitter, Inc.
-    Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
-
-* Images:
-	All images are from Unsplash (	www.unsplash.com	) and Pixabay( www.pixabay.com	)
-	License under Creative Commons Zero.
+==================================================================================================
 
 
-	https://pixabay.com/en/bed-bedroom-door-girl-house-1850893/
+LICENSE:
+
+This free resource is provided by styleshout.com and is free to use in 
+both personal and commercial projects.
 
 
-	Sources for images used:
-		https://unsplash.com/photos/VviFtDJakYk
-		https://unsplash.com/photos/hoCXpPUMCoE
-		https://pixabay.com/en/coffee­tablet­headphones­work­1128140/
-		https://unsplash.com/photos/T0bQdp74I0U
-		https://unsplash.com/photos/VLT62­JzddA
-		https://pixabay.com/en/turntable­top­view­audio­equipment­1109588/
-		https://pixabay.com/en/computer­apple­imac­keyboard­mouse­791392/
-		https://pixabay.com/en/man­reading­touchscreen­blog­791049/
-		https://pixabay.com/en/workspace­place­of­work­work­766045/
-		https://pixabay.com/en/coffee­coffe­latte­516186/
-		https://unsplash.com/photos/zCevd81eJDU
-		https://unsplash.com/photos/2UE1givDiPM
-		https://unsplash.com/photos/lZlfHGqx44Q
-		https://unsplash.com/photos/71cd1rWqO8M
-		https://unsplash.com/photos/HALe2SmkWAI
-		https://unsplash.com/photos/hiAdjnXZxl8
-		https://unsplash.com/photos/eqsEZNCm4­c
-		https://pixabay.com/en/fashion­beauty­model­portrait­girl­1063100/
-		https://pixabay.com/en/home­office­notebook­home­couch­569153/
-		https://pixabay.com/en/adult-beach-enjoyment-1867618/
-		https://stocksnap.io/photo/7LQZXYOHL9
-		https://stocksnap.io/photo/PLFB4I53U4
-		https://stocksnap.io/photo/D3WN2GEYA3
-		https://pixabay.com/en/canine-cute-dog-footwear-hammock-1851504/
+Rights:
+-------
 
-* Font Awesome:
-	License: SIL OFL 1.1
-	URL: http://scripts.sil.org/OFL
+You are permitted to use this free resource in any number of personal and commercial projects for 
+yourself or a client. You may modify the resource according to your requirements and include them 
+in your projects under the following condition - you MUST give appropriate credit, provide an 
+attribution link to styleshout.com.
 
-* Google Fonts:
-	Source Sans Pro (https://www.google.com/fonts/specimen/Source+Sans+Pro)
-	License under SIL Open Font License, 1.1
-	Copyright © Paul D. Hunt (https://plus.google.com/108888178732927400671/about)
 
-* owl-carousel.js (http://www.owlcarousel.owlgraphic.com/):
-	Copyright 2013 Bartosz Wojciechowski
-	License under The MIT License (MIT)
+Prohibitions:
+-------------
 
-* count-to.js (https://github.com/mhuggins/jquery-countTo):
-	Copyright Matt Huggins
-	License under MIT license.
+You are not permitted to resell or redistribute(even for free) the resource "as is" without 
+prior consent. If you would like to republish or promote this resource on your site, please 
+link back to the appropriate resource page on styleshout.com where users can find the download 
+and not directly to the download zip file.
+
+
+Attribution: 
+------------
+
+You must include a credit link to our website(https://www.styleshout.com) somewhere on your site. 
+We prefer the footer credit that comes with the template but you are still free to move it 
+somewhere else.
+
+
+
+If you have any questions about the License, feel free to contact us.
+
+
+-----------------------------------------------------------------------------------------------------
+
+
+REMOVING THE ATTRIBUTION LINK:
+
+We understand that there are situations where you want to use our templates without 
+the crediting obligation. If that's your case, you can always send us a 
+credit removal fee of 10 USD through Paypal. This will allow you to use a single 
+template attribution/credit link free on ONE DOMAIN name.
+
+You can send your payments through Paypal to this address: ealigam@gmail.com or
+visit our attribution removal page: https://www.styleshout.com/attribution-free/ 
+and click the pay button on the page.
+
+If possible, kindly send us the site's url where the template is being used. 
+Also, keep your Paypal receipt as proof of payment and your good to go.
+
+
+------------------------------------------------------------------------------------------------------ 
+
+
+SUPPORT:
+    
+Since INFINITY is distributed for free, support is not offered. INFINITY is coded according 
+to current web standards and we did our best to make the template easy to use and modify.
+If you have minimum web development experience, you can easily modify the template. 
+However, If you're still new to HTML and CSS, I suggest that you visit the 
+following tutorials:
+
+ - https://marksheet.io/
+ - http://learn.shayhowe.com/html-css/
+
+These will teach you the essentials of HTML and CSS. In addition, if you want to include
+javascript in your skill-set, you can also check out these tutorials: 
+
+ - https://www.codecademy.com/learn/introduction-to-javascript
+ - https://javascript.info/
+
+
+-------------------------------------------------------------------------------------------------------
+
+
+USING THE MAILCHIMP FORM:
+
+To use the mailchimp form you need a mailchimp url. To get the mailchimp url, login to 
+your mailchimp account, click the Audience menu and select signup forms. Then choose 
+embedded forms and select unstyled form. In the generated form code get the value of 
+the form ACTION attribute and use it as your mailchimp url. Open the main.js file located
+in the template's "js" folder and look for this line of code: 
+
+const cfg = {
+
+    // MailChimp URL
+    mailChimpURL : 'https://facebook.us1.list-manage.com/subscribe/post?u=1abf75f6981256963a47d197a&amp;id=37c6d8f4d6' 
+
+};
+
+
+Replace the value of mailChimpURL with your mailchimp url.
+
+
+------------------------------------------------------------------------------------------------------ 
+
+
+GET THE LATEST VERSION:
+
+We update our templates on a regular basis so to make sure that you have the latest version, 
+always download the template files directly on our website(https://www.styleshout.com/)
+
+
+
+-------------------------------------------------------------------------------------------------------
+
+
+SOURCES AND CREDITS:
+
+I've used the following resources as listed.
+
+Fonts:
+ - Inter Font (https://fonts.google.com/specimen/Inter)
+ - Lora Font (https://fonts.google.com/specimen/Lora)
+
+Icons:
+ - Boxicons (https://boxicons.com/)
+ - Iconmonstr (https://iconmonstr.com/)
+
+Stock Photos and Graphics:
+ - Unsplash.com (https://unsplash.com/)
+ 
+Javascript Files:
+ - Anime.js (https://animejs.com/)
+ - Swiper (https://swiperjs.com/)
+ - MoveTo.js (https://github.com/hsnaydd/moveTo)
+ - Prism.js (https://prismjs.com/)
+ - Rellax JS (https://dixonandmoe.com/rellax/)
+ - PhotoSwipe (https://photoswipe.com/)
+
+-------------------------------------------------------------------------------------------------------
+
+
+Thanks for downloading from StyleShout :)
+
+
