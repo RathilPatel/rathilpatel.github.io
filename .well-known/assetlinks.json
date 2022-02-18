@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "com.example.rathildemo",
+    "package_name": "com.example.rathildemo",
+    "sha256_cert_fingerprints":
+    ["81:08:3A:D3:D4:F4:63:FC:D7:8B:D1:C8:E0:02:27:83:19:5F:6A:C9:CD:6C:E1:5D:6B:28:60:2D:40:16:3C:13"]
+  }
+}]
